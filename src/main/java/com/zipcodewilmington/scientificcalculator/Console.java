@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by leon on 2/9/18.
  */
-public class Console {
+public class  Console {
 
     public static void print(String output, Object... args) {
         System.out.printf(output, args);
