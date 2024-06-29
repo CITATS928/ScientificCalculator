@@ -71,7 +71,7 @@ public class Console {
         //define switch cases for operator
         switch (operator) {
             case '+':
-                result = add(num1,num2);
+               // result = add(num1,num2);
 //                result = num1 + num2; //addition
                 break;
             case '-':
