@@ -2,18 +2,17 @@ package com.zipcodewilmington.scientificcalculator;
 
 import java.util.Scanner;
 
-<<<<<<< HEAD
 /**
  * Created by leon on 2/9/18.
  */
 public class  Console {
-=======
+
 public class Console {
     //declare scanner
     private static Scanner scanner = new Scanner(System.in);
     //declare memory as 0 first value
     private static double memory = 0.0; // Memory variable to store result
->>>>>>> 4c5e425256868134d0972936d642907080cd48b9
+
 
     //declare print (print output)
     public static void print(String output, Object... args) {
